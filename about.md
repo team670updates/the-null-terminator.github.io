@@ -5,8 +5,6 @@ subtitle: Just who the hell you think I am?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am just a kid who writes bad code and messes around with homemade electronics of questionable safety. Nothing new, right?
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+More specifically this site is a place to document the projects my friend and I work on. Besides being a portfolio for college apps, we want this site to be a resource and something you can learn from....also as a memorial to all our sadly failed experiments... 
